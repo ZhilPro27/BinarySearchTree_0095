@@ -15,3 +15,9 @@ public :
 		rightchild = r;
 	}
 };
+
+class BinaryTree {
+public:
+	Node* ROOT;
+
+};
